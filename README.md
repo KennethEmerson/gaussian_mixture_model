@@ -1,2 +1,2 @@
 # gaussian_mixture
-big data processing assignment
+https://brilliant.org/wiki/gaussian-mixture-model/
